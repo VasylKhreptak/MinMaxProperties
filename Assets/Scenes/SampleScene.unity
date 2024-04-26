@@ -154,7 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _property:
     Min: 0
-    Max: 0
+    Max: 1.32
 --- !u!4 &685241413
 Transform:
   m_ObjectHideFlags: 0
