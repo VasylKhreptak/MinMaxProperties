@@ -7,7 +7,7 @@ namespace Plugins.MinMaxProperties
     public class IntMinMax : MinMaxProperty<int>
     {
         public IntMinMax(int min, int max) : base(min, max) { }
-        
+
         public override int Random() => UnityEngine.Random.Range(Min, Max);
     }
 }

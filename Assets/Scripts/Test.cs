@@ -3,5 +3,5 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    [SerializeField] private FloatMinMax _property;
+    [SerializeField] private MinMaxData<int> _property;
 }
